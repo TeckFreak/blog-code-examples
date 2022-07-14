@@ -6,6 +6,9 @@ Link to Original Article: [How to find the length of a number](https://rahulv.de
 
 Code examples in languages: C/C++, Javascript/Typescript & C#
 
+## Question:
+Given a positive integer `n`, find the length of the number. Provide the most optimized way to solve the problem.
+
 Examples contains following approaches:
 
 1. Finding the length of a number using loop and divide. (using-loop)
